@@ -1,3 +1,5 @@
+# Archived: changes got merged upstream
+
 # Media Stream Library JS
 
 [![CI][ci-image]][ci-url]
